@@ -35,8 +35,5 @@ int main() {
         default:
             printf("khong hop le\n");
     }
-    printf("nam %d thang %d ngay %d\n", year, month, day);
-
-
     return 0;
 }
